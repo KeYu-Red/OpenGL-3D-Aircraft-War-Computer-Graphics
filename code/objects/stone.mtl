@@ -1,0 +1,9 @@
+newmtl phong1SG
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.40 0.40 0.40
+Ks 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd RockSmooth0076_4_L.jpg
+Ni 1.00
+Ns 98.00

@@ -1,0 +1,30 @@
+﻿  main .cpp
+e:\zjufiles\sophomore 2\cg\大作业\6.23\mtlloader.h(3): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+e:\zjufiles\sophomore 2\cg\大作业\6.23\partical_life.h(325): warning C4018: “<”: 有符号/无符号不匹配
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(905): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(1785): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(2551): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4100): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4138): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4204): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4285): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4375): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\geometricsolid.h(4501): warning C4305: “初始化”: 从“double”到“float”截断
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(512): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(551): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(652): warning C4018: “<”: 有符号/无符号不匹配
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(659): warning C4018: “<”: 有符号/无符号不匹配
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(681): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(748): warning C4018: “<”: 有符号/无符号不匹配
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(755): warning C4018: “<”: 有符号/无符号不匹配
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(777): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(950): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1128): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zjufiles\sophomore 2\cg\大作业\6.23\main .cpp(1142): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  exp2.vcxproj -> E:\zjufiles\sophomore 2\CG\大作业\6.23\Debug\exp2.exe
